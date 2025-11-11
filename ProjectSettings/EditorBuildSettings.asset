@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_LastWar/Scenes/Loader.unity
+    path: Assets/_LastWar/Content/Scenes/Loader.unity
     guid: 575be0344fb4d45eca113c13c12546dd
   - enabled: 1
-    path: Assets/_LastWar/Scenes/Game.unity
+    path: Assets/_LastWar/Content/Scenes/Game.unity
     guid: 7305afb1554b94fb289b728010615af6
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
