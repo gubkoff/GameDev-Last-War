@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3294208536604426464}
   m_Layer: 0
-  m_Name: BakersHouse
+  m_Name: BakeryHouse
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
