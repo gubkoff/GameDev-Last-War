@@ -1,0 +1,16 @@
+{
+    "name": "RepositoriesGameplay",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b68299357e2344f9ba0f07b1494eb7d3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
