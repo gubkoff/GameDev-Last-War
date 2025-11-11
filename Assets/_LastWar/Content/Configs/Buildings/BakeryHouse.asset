@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d599cae36654eee8a216f3e927f5338, type: 3}
+  m_Name: BakeryHouse
+  m_EditorClassIdentifier: 
+  _name: Bakery
+  _buildingType: 2
+  _preview: {fileID: 21300000, guid: 9449a8b9b4e2f4ae0895dd0a039b30b1, type: 3}
+  _cost:
+    ResourceType: 1
+    Amount: 10
+  _prefab: {fileID: 3351010397087084706, guid: 48c4335c9b485ce49a9ab4f4f6f52150, type: 3}
+  _baseLevel: 1
+  _levelsData:
+  - Level: 1
+    UpdateCost:
+      ResourceType: 0
+      Amount: 0
+    GeneratedResource:
+    - ResourceType: 1
+      Amount: 1
+    GeneratedPerSeconds: 3
