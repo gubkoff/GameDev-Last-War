@@ -13,4 +13,5 @@ MonoBehaviour:
   m_Name: TerrainGrid
   m_EditorClassIdentifier: 
   _gridType: 1
+  _gridSize: {x: 10, y: 10}
   _prefab: {fileID: 17193466084813202, guid: 0d4b1d10689d24c628248cc11e7a6abb, type: 3}

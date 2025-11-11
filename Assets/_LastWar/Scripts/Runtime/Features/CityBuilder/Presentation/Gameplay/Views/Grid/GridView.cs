@@ -29,7 +29,7 @@ namespace _LastWar.CityBuilder.Presentation.Gameplay.Views
                     float positionZ = j * grid.GridSize.y;
                     
                     var gridObject = Instantiate(grid.Prefab, new Vector3(positionX, 0, positionZ), Quaternion.identity, transform);
-                    grid.name = $"Grid_{i}_{j}";
+                    gridObject.name = $"Grid_{i}_{j}";
                     _gridObjects.Add(gridObject);
                 }
             }
