@@ -1,4 +1,4 @@
-namespace LastWar.Domain.Gameplay.Models.Building
+namespace LastWar.CityBuilder.Domain.Gameplay.Models.Building
 {
     public enum BuildingType
     {
